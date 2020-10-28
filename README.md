@@ -5,3 +5,4 @@
 3. Ondoorchanged berfungsi untuk mengambil data di doorststuschanged Dan mengubah statusnya
 
 ## Gambar Class Diagram
+![Class Diagram](https://github.com/Hernanda2829/TheNextCar/blob/master/ClassDiagram.png)
